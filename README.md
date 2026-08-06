@@ -5,11 +5,11 @@
 <h1 align="center">Hi 👋, I'm Amit Sharma</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer • Data Analytics Enthusiast • Founder of Velnora Tech
+🚀 Full Stack Developer • Data Analytics • Founder of Velnora Tech
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Building+Digital+Solutions;Full+Stack+Developer;Data+Analytics+Enthusiast;React+%7C+Next.js+%7C+TypeScript;Open+Source+Learner;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Building+Digital+Solutions;Full+Stack+Developer;Data+Analytics;React+%7C+Next.js+%7C+TypeScript;Open+Source+Learner;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
