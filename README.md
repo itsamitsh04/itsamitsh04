@@ -130,7 +130,7 @@
 </a>
 
 <a href="https://velnora.tech">
-<img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
