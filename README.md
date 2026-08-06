@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Amit Sharma
 
-### 🚀 Full Stack Developer • Founder of Velnora Tech • Data Analytics Enthusiast
+### 🚀 Full Stack Developer • Founder of Velnora Tech • Data Analytics
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=2563EB&lines=Building+Digital+Growth;Full+Stack+Developer;React+%7C+Next.js+Developer;Data+Analytics+Enthusiast;AI+Automation+Explorer;Always+Learning+New+Things"/>
 
@@ -24,7 +24,7 @@ I'm a passionate developer focused on building modern, scalable, and user-friend
 
 - 🚀 Founder of **Velnora Tech**
 - 💻 Full Stack Web Developer
-- 🌐 Building Digital Growth through **https://velnora.tech**
+- 🌐 Building Digital Growth through **<a href="https://velnora.tech">Velnora Tech**
 - 📊 Learning Data Analytics
 - 🤖 Exploring Artificial Intelligence
 - 🎨 Passionate about UI/UX
