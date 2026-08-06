@@ -6,7 +6,7 @@
 
 ### 🚀 Full Stack Developer • Founder of Velnora Tech • Data Analytics
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=2563EB&lines=Building+Digital+Growth;Full+Stack+Developer;React+%7C+Next.js+Developer;Data+Analytics+Enthusiast;AI+Automation+Explorer;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=2563EB&lines=Building+Digital+Growth;Full+Stack+Developer;React+%7C+Next.js+Developer;Data+Analytics;AI+Automation+Explorer;Always+Learning+New+Things"/>
 
 <img src="https://komarev.com/ghpvc/?username=itsamitsh04&style=for-the-badge&color=2563EB"/>
 
