@@ -1,95 +1,180 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8B5CF6&height=260&section=header&text=Amit%20Sharma&fontSize=58&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Amit Sharma</h1>
+
 <h3 align="center">
-Founder of <a href="https://velnora.tech">Velnora Tech</a> • Full Stack Developer • Data Analytics Enthusiast
+💻 Full Stack Developer • 🚀 Founder of Velnora Tech • 📊 Data Analytics Enthusiast
 </h3>
 
 <p align="center">
-Building scalable digital products, modern web applications, and data-driven solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Building+Digital+Growth;Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Data+Analytics+Enthusiast;Open+Source+Learner;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
-<a href="https://github.com/itsamitsh04">
-<img src="https://komarev.com/ghpvc/?username=itsamitsh04&label=Profile%20Views&color=0e75b6&style=flat-square" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=itsamitsh04&label=Profile+Views&color=2563EB&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/itsamitsh04?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/itsamitsh04?style=for-the-badge&logo=github"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🔭 Founder of **Velnora Tech**
-- 🌐 Building modern websites, SaaS products & business solutions
-- 📊 Exploring **Data Analytics, Business Intelligence & AI**
-- 🌱 Currently learning **Next.js, Supabase, Python, SQL & Power BI**
-- 🤝 Open to collaborating on **Open Source, SaaS & AI Projects**
-- 💬 Ask me about **Web Development, UI/UX, WordPress, SEO & Data Analytics**
-- ⚡ I love transforming ideas into scalable digital products.
+I'm a passionate developer who enjoys building modern websites, scalable web applications, and data-driven solutions.
+
+- 💻 Full Stack Web Developer
+- 🚀 Founder of **Velnora Tech**
+- 🌐 Building Digital Growth through **https://velnora.tech**
+- 📊 Learning Data Analytics & Business Intelligence
+- 🤖 Exploring AI Automation
+- 🎨 Passionate about UI/UX & Clean Design
+- 📍 India
 
 ---
 
-## 🌐 Connect With Me
+# 🏢 About Velnora Tech
 
-<p align="left">
-<a href="https://linkedin.com/in/amitshofficial"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-<a href="mailto:hello@velnora.tech"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
-<a href="https://github.com/itsamitsh04"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
-<a href="https://velnora.tech"><img src="https://img.shields.io/badge/Website-Velnora%20Tech-0EA5FF?style=for-the-badge"/></a>
-</p>
+**Velnora Tech** is a modern digital agency helping businesses grow online through technology, creativity, and data.
+
+### Our Services
+
+- 🌐 Web Development
+- 📱 UI/UX Design
+- 📈 SEO Optimization
+- 📊 Data Analytics
+- 🎯 Digital Marketing
+- 🤖 AI Solutions
 
 ---
 
 # 💻 Tech Stack
 
-### Frontend
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite)
+<p align="center">
 
-### Backend
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,python,fastapi)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,supabase,mongodb,firebase,python,mysql,git,github,vscode,figma"/>
 
-### Database
-![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase,prisma)
-
-### Cloud & DevOps
-![My Skills](https://skillicons.dev/icons?i=vercel,netlify,docker,git,github,githubactions)
-
-### Design
-![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,wordpress)
-
-### Data Analytics
-- SQL
-- Power BI
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Plotly
-- Scikit-Learn
+</p>
 
 ---
 
-# 📈 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=itsamitsh04&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://streak-stats.demolab.com?user=itsamitsh04&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsamitsh04&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=itsamitsh04&theme=radical&no-frame=true&no-bg=true&margin-w=8)
-
----
-
-### ✨ Quote
-
-> "Building products that solve real problems."
-
----
+# ⚙️ Tools I Use
 
 <p align="center">
-Made with ❤️ by <strong>Amit Sharma</strong><br>
-Founder • Velnora Tech
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itsamitsh04&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=itsamitsh04&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsamitsh04&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=itsamitsh04&theme=tokyonight&no-frame=true&margin-w=12"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsamitsh04&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎮 Fun Zone
+
+<p align="center">
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="450"/>
+
+### 🎯 Level Up Every Day
+
+> "Every commit is XP. Every project is a new quest."
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- 🚀 Building Scalable Web Apps
+- 📊 Learning Data Analytics
+- 🤖 AI Automation
+- 🌍 Open Source Contributions
+- ⚡ Performance Optimization
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/itsamitsh04">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/amitshofficial">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hello@velnora.tech">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://velnora.tech">
+<img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Favorite Quote
+
+> **"Building Digital Growth through code, creativity, and continuous learning."**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, feel free to follow me and star my repositories.
+
+Made with ❤️ by **Amit Sharma**
+
+</div>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:2563EB&height=120&section=footer"/>
 </p>
